@@ -33,11 +33,27 @@ I enjoy working on real-world AWS & DevOps projects involving cloud-native tools
 ---
 
 ### 💡 Featured Projects
+
 - **[Medusa E-Commerce Backend Deployment](https://github.com/gawalishankar/medusa_project)**  
   Deployed Medusa.js backend on AWS ECS (Fargate) with RDS & Docker (ECR). Automated with Terraform & CI/CD.  
 
 - **[Event-Driven Data Pipeline](https://github.com/gawalishankar/event-driven-data-pipeline)**  
   Serverless pipeline using AWS S3, Lambda & SES with Terraform + GitHub Actions for automation.  
+
+- **[CI/CD Pipeline with Jenkins & Docker](https://github.com/gawalishankar/ci-cd-jenkins-docker)**  
+  Built a Jenkins pipeline to build, test, scan, and deploy a containerized Java application. Integrated Docker Hub for image storage and Kubernetes for deployment.  
+
+- **[Two-Tier AWS Infrastructure with Terraform](https://github.com/gawalishankar/aws-two-tier-infra)**  
+  Designed a secure & scalable VPC-based infrastructure with public-private subnets, EC2, RDS, NAT Gateway, and IAM. Automated provisioning with Terraform.  
+
+- **[Monitoring Stack with Prometheus & Grafana](https://github.com/gawalishankar/prometheus-grafana-monitoring)**  
+  Set up Kubernetes monitoring using Prometheus, Grafana dashboards, and Alertmanager for proactive alerts.  
+
+- **[Docker Compose for Multi-Service Application](https://github.com/gawalishankar/docker-compose-java-mysql)**  
+  Containerized Java + MySQL application using Docker Compose, exposed at port `8081` with persistent storage.  
+
+- **[CI/CD with GitHub Actions](https://github.com/gawalishankar/github-actions-cicd)**  
+  Implemented end-to-end CI/CD workflow: build, test, security scan, and deploy using GitHub Actions with environment-specific secrets.  
 
 ---
 
@@ -64,4 +80,3 @@ I enjoy working on real-world AWS & DevOps projects involving cloud-native tools
 ---
 
 ✨ *Always learning, always automating 🚀*  
-
