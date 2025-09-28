@@ -1,13 +1,13 @@
 # Hey, I'm Shivshankar 👨‍💻  
 **DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 🌟 I’m passionate about building scalable cloud infrastructure and automating everything from deployments to monitoring.  
@@ -33,15 +33,14 @@ I enjoy working on real-world AWS & DevOps projects involving cloud-native tools
 ---
 
 ### 💡 Featured Projects
-
 - **[Medusa E-Commerce Backend Deployment](https://github.com/gawalishankar/medusa_project)**  
   Deployed Medusa.js backend on AWS ECS (Fargate) with RDS & Docker (ECR). Automated with Terraform & CI/CD.  
 
 - **[Event-Driven Data Pipeline](https://github.com/gawalishankar/event-driven-data-pipeline)**  
-  Serverless pipeline using AWS S3, Lambda & SES with Terraform + GitHub Actions for automation.  
+  Serverless pipeline using AWS S3, Lambda & SES with Terraform + GitHub Actions for automation.
 
 - **[Simple CI/CD Project](https://github.com/gawalishankar/simple-CI-CD-project)**  
-  A hands-on CI/CD example repo showcasing automated build & deployment flows.  
+  A hands-on CI/CD example repo showcasing automated build & deployment flows.
 
 ---
 
