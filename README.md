@@ -1,5 +1,5 @@
 # Hey, I'm Shivshankar 👨‍💻  
-**DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD**
+**DevOps Engineer | AWS | Docker | Kubernetes | Terraform | CI/CD**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
