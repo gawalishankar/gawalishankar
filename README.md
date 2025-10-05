@@ -27,8 +27,9 @@ I enjoy working on real-world AWS & DevOps projects involving cloud-native tools
 - **Cloud:** AWS (EC2, S3, IAM, RDS, VPC, CLI)  
 - **DevOps Tools:** Git, Jenkins, GitHub Actions, Docker, Kubernetes, Terraform  
 - **Monitoring:** Prometheus, Grafana  
-- **Languages & Scripting:** Python, Bash, Linux Shell  
-- **Database:** MySQL  
+- **Languages & Scripting:** Python, Bash, Linux, Shell  
+- **Database:** SQL
+- **Concepts**: Networking, SDLC, CI/CD Pipelines 
 
 ---
 
