@@ -34,6 +34,11 @@ I enjoy working on real-world AWS & DevOps projects involving cloud-native tools
 ---
 
 ### 💡 Featured Projects
+- **[Dance Workshop Application – AWS ECS Deployment](https://github.com/gawalishankar/Dance-Workshop-Project)**  
+  Deployed a PHP + MySQL web application on AWS ECS (Fargate) using Docker and Amazon ECR.
+  Integrated Amazon RDS for database, Application Load Balancer for traffic routing, and GitHub Actions for CI.
+  Manual ECS service setup with logging via CloudWatch.
+
 - **[Medusa E-Commerce Backend Deployment](https://github.com/gawalishankar/medusa_project)**  
   Deployed Medusa.js backend on AWS ECS (Fargate) with RDS & Docker (ECR). Automated with Terraform & CI/CD.  
 
