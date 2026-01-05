@@ -69,11 +69,7 @@ I enjoy working on real-world AWS & DevOps projects involving cloud-native tools
 
 ### 📊 GitHub Stats
 ![Shivshankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gawalishankar&show_icons=true) 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gawalishankar&show_icons=true&cache_seconds=1800)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gawalishankar&layout=compact) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gawalishankar&layout=compact&cache_seconds=1800)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=gawalishankar&hide_border=true)  
 
 ---
