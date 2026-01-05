@@ -34,7 +34,7 @@ I enjoy working on real-world AWS & DevOps projects involving cloud-native tools
 ---
 
 ### 💡 Featured Projects
-- **[Dance Workshop Application – AWS ECS Deployment](https://github.com/gawalishankar/Dance-Workshop-Project)**  
+- **[Dance Acedamy Application (Fusion) – AWS ECS Deployment](https://github.com/gawalishankar/Fusion_Project)**  
   Deployed a PHP + MySQL web application on AWS ECS (Fargate) using Docker and Amazon ECR.
   Integrated Amazon RDS for database, Application Load Balancer for traffic routing, and GitHub Actions for CI.
   Manual ECS service setup with logging via CloudWatch.
