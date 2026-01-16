@@ -31,7 +31,25 @@ I enjoy working on real-world AWS & DevOps projects involving cloud-native tools
 - **Monitoring & Logging**: Prometheus, Grafana, CloudWatch
 - **Scripting & OS**: Linux, Bash, Shell Scripting, Python
 - **Databases**: SQL
-- **Concepts**: CI/CD, SDLC, Networking  
+- **Concepts**: CI/CD, SDLC, Networking
+
+- 🚀 Skills & Technologies
+☁️ Cloud & DevOps
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/> </p>
+🔄 CI/CD
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50"/> </p>
+📦 Containers & Orchestration
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="50"/> </p>
+🏗️ Infrastructure as Code
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50"/> </p>
+📊 Monitoring & Logging
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" height="50"/> </p>
+🖥️ OS & Scripting
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50"/> </p>
+🗄️ Databases
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50"/> </p>
+🌐 Concepts
+<p align="left"> <img src="https://img.icons8.com/color/96/devops.png" height="50"/> <img src="https://img.icons8.com/color/96/network.png" height="50"/> </p>
 
 ---
 
