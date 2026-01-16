@@ -24,16 +24,8 @@ I enjoy working on real-world AWS & DevOps projects involving cloud-native tools
 ---
 
 ### 🛠️ Tech Stack & Skills
-- **Cloud Platforms**: AWS (EC2, S3, RDS, Lambda, IAM, VPC, ECR, ECS)
-- **CI/CD Tools**: Jenkins, GitHub Actions, GitLab CI
-- **Containers & Orchestration**: Docker, Kubernetes
-- **Infrastructure as Code**: Terraform, AWS CloudFormation
-- **Monitoring & Logging**: Prometheus, Grafana, CloudWatch
-- **Scripting & OS**: Linux, Bash, Shell Scripting, Python
-- **Databases**: SQL
-- **Concepts**: CI/CD, SDLC, Networking 
 
-###🚀 Skills & Technologies
+###🚀 Cloud & DevOps
 
 <p align="left"> <!-- Cloud --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/> 
   <!-- CI/CD --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50"/> 
