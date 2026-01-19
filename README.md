@@ -17,7 +17,7 @@ I enjoy working on real-world AWS & DevOps projects involving cloud-native tools
 
 ### 🚀 What I Work On
 **Terraform / AWS Infrastructure ☁** – Design, provision & manage cloud infrastructure on AWS using Infrastructure as Code
-**Containerization Projects 🐳** – Dockerize applications and manage deployments using Kubernetes
+**Containerization Projects 🐳** – Dockerize applications and manage deployments using Kubernetes                         
 **CI/CD Pipelines 🔗** – Build automated CI/CD pipelines using Jenkins, GitHub Actions for faster and reliable deployments
 **Monitoring & Observability 📊** – Implement Prometheus & Grafana dashboards, alerts, and log monitoring for production systems
 **Microservices Deployment ⚙️** – Deploy and manage microservices using Docker, Kubernetes, and Ingress controllers
