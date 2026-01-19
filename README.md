@@ -23,9 +23,9 @@ I enjoy working on real-world AWS & DevOps projects involving cloud-native tools
 **Microservices Deployment ⚙️** – Deploy and manage microservices using Docker, Kubernetes, and Ingress controllers      
 **Cloud Networking 🌐** – Configure VPCs, subnets, security groups, load balancers, and connectivity between services     
 **Database & Storage Integration 🗄️** – Connect applications with RDS, S3, and manage backups, migrations & data imports
-**Git & Version Control 🔀** – Manage Git workflows (GitFlow, feature branches, PR reviews) for team collaboration
-**Infrastructure Automation 🤖** – Automate provisioning, scaling & cleanup using Terraform, shell scripting & AWS CLI
-**Deployment Strategies 🚦** – Implement rolling updates, blue-green deployments & rollback strategies
+**Git & Version Control 🔀** – Manage Git workflows (GitFlow, feature branches, PR reviews) for team collaboration       
+**Infrastructure Automation 🤖** – Automate provisioning, scaling & cleanup using Terraform, shell scripting & AWS CLI     
+**Deployment Strategies 🚦** – Implement rolling updates, blue-green deployments & rollback strategies    
 **DevOps Best Practices 🛡️** – Focus on security, cost optimization, reliability & performance tuning
 
 ---
