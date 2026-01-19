@@ -1,5 +1,5 @@
 # Hey, I'm Shivshankar 👨‍💻  
-**DevOps Fresher / Entry-Level DevOps Engineer**
+**DevOps Engineer| Cloud Engineer | SRE**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
