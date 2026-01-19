@@ -20,8 +20,8 @@ I enjoy working on real-world AWS & DevOps projects involving cloud-native tools
 **Containerization Projects 🐳** – Dockerize applications and manage deployments using Kubernetes                         
 **CI/CD Pipelines 🔗** – Build automated CI/CD pipelines using Jenkins, GitHub Actions for faster and reliable deployments  
 **Monitoring & Observability 📊** – Implement Prometheus & Grafana dashboards, alerts, and log monitoring for production systems
-**Microservices Deployment ⚙️** – Deploy and manage microservices using Docker, Kubernetes, and Ingress controllers
-**Cloud Networking 🌐** – Configure VPCs, subnets, security groups, load balancers, and connectivity between services
+**Microservices Deployment ⚙️** – Deploy and manage microservices using Docker, Kubernetes, and Ingress controllers      
+**Cloud Networking 🌐** – Configure VPCs, subnets, security groups, load balancers, and connectivity between services     
 **Database & Storage Integration 🗄️** – Connect applications with RDS, S3, and manage backups, migrations & data imports
 **Git & Version Control 🔀** – Manage Git workflows (GitFlow, feature branches, PR reviews) for team collaboration
 **Infrastructure Automation 🤖** – Automate provisioning, scaling & cleanup using Terraform, shell scripting & AWS CLI
