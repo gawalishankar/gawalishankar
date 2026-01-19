@@ -16,10 +16,17 @@ I enjoy working on real-world AWS & DevOps projects involving cloud-native tools
 ---
 
 ### 🚀 What I Work On
-- **Terraform/AWS Projects ☁** – Build secure & scalable infrastructure on AWS using Infrastructure as Code  
-- **Containerization Projects 🐳** – Dockerize applications & orchestrate them with Kubernetes  
-- **CI/CD Pipelines 🔗** – Automate build, test & deploy using Jenkins and GitHub Actions  
-- **Monitoring Solutions 📊** – Set up Prometheus & Grafana for observability  
+**Terraform / AWS Infrastructure ☁** – Design, provision & manage secure, scalable cloud infrastructure on AWS using Infrastructure as Code
+**Containerization Projects 🐳** – Dockerize applications and manage deployments using Kubernetes (Deployments, Services, HPA, Helm)
+**CI/CD Pipelines 🔗** – Build automated CI/CD pipelines using Jenkins, GitHub Actions & GitLab runners for faster and reliable deployments
+**Monitoring & Observability 📊** – Implement Prometheus & Grafana dashboards, alerts, and log monitoring for production systems
+**Microservices Deployment ⚙️** – Deploy and manage microservices using Docker, Kubernetes, and Ingress controllers
+**Cloud Networking 🌐** – Configure VPCs, subnets, security groups, load balancers, and connectivity between services
+**Database & Storage Integration 🗄️** – Connect applications with RDS, S3, and manage backups, migrations & data imports
+**Git & Version Control 🔀** – Manage Git workflows (GitFlow, feature branches, PR reviews) for team collaboration
+**Infrastructure Automation 🤖** – Automate provisioning, scaling & cleanup using Terraform, shell scripting & AWS CLI
+**Deployment Strategies 🚦** – Implement rolling updates, blue-green deployments & rollback strategies
+**DevOps Best Practices 🛡️** – Focus on security, cost optimization, reliability & performance tuning
 
 ---
 
