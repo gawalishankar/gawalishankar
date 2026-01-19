@@ -47,9 +47,6 @@ I enjoy working on real-world AWS & DevOps projects involving cloud-native tools
 **🗄️ Databases**
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50"/> </p>
 
-**🌐 Concept**
-<p align="left"> <img src="https://img.icons8.com/color/96/devops.png" height="50"/> <img src="https://img.icons8.com/color/96/network.png" height="50"/> </p>
-
 ---
 
 ### 💡 Featured Projects
@@ -59,13 +56,16 @@ I enjoy working on real-world AWS & DevOps projects involving cloud-native tools
   Manual ECS service setup with logging via CloudWatch.
 
 - **[Medusa E-Commerce Backend Deployment](https://github.com/gawalishankar/medusa_project)**  
-  Deployed Medusa.js backend on AWS ECS (Fargate) with RDS & Docker (ECR). Automated with Terraform & CI/CD.  
+  Deployed the Medusa.js backend on AWS ECS (Fargate) with Amazon RDS and Docker images stored in ECR.
+  Automated infrastructure provisioning using Terraform and implemented CI/CD pipelines for reliable and repeatable deployments.
 
 - **[Event-Driven Data Pipeline](https://github.com/gawalishankar/event-driven-data-pipeline)**  
-  Serverless pipeline using AWS S3, Lambda & SES with Terraform + GitHub Actions for automation.
+  Built a serverless event-driven pipeline using AWS S3, Lambda, EventBridge, and SES.
+  Automated infrastructure and deployments using Terraform and GitHub Actions, with daily report generation and monitoring via CloudWatch..
 
 - **[Simple CI/CD Project](https://github.com/gawalishankar/simple-CI-CD-project)**  
-  A hands-on CI/CD example repo showcasing automated build & deployment flows.
+  Developed a hands-on CI/CD project demonstrating automated build, test, and deployment workflows using GitHub Actions and Docker.
+  Focused on improving deployment reliability and reducing manual intervention.
 
 ---
 
