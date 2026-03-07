@@ -50,22 +50,30 @@ I enjoy working on real-world AWS & DevOps projects involving cloud-native tools
 ---
 
 ### 💡 Featured Projects
-- **[Dance Acadamy Application (Fusion) – AWS ECS Deployment](https://github.com/gawalishankar/Fusion_Project)**  
-  Deployed a PHP + MySQL web application on AWS ECS (Fargate) using Docker and Amazon ECR.
-  Integrated Amazon RDS for database, Application Load Balancer for traffic routing, and GitHub Actions for CI.
-  Manual ECS service setup with logging via CloudWatch.
+- **[Cloud-Native Application Deployment on AWS ECS](https://github.com/gawalishankar/Fusion_Project)**  
+  Containerized a PHP–MySQL web application using Docker and pushed images to Amazon ECR.
+  Built a CI/CD pipeline using GitHub Actions to automate Docker image build and deployment.
+  Deployed containers on AWS ECS (Fargate) for scalable and serverless container management.
+  Configured Application Load Balancer (ALB) to distribute traffic across services.
+  Integrated Amazon RDS for persistent database storage.
+  Enabled application monitoring and logging via Amazon CloudWatch.
 
-- **[Medusa E-Commerce Backend Deployment](https://github.com/gawalishankar/medusa_project)**  
-  Deployed the Medusa.js backend on AWS ECS (Fargate) with Amazon RDS and Docker images stored in ECR.
-  Automated infrastructure provisioning using Terraform and implemented CI/CD pipelines for reliable and repeatable deployments.
+- **[AWS 3-Tier Infrastructure using Terraform](https://github.com/gawalishankar/aws-3tier-terraform)**  
+  Designed and implemented a production-style 3-tier AWS architecture (Web, App, DB) using Terraform Infrastructure as Code.
+  Provisioned VPC with public and private subnets to isolate web and database layers.
+  Configured Application Load Balancer (ALB) to route internet traffic to EC2 instances.
+  Implemented Auto Scaling Group to maintain high availability and handle traffic spikes.
+  Deployed Amazon RDS PostgreSQL in private subnets with secure access through security groups.
+  Managed Terraform remote state using Amazon S3 with DynamoDB state locking.
 
 - **[Event-Driven Data Pipeline](https://github.com/gawalishankar/event-driven-data-pipeline)**  
   Built a serverless event-driven pipeline using AWS S3, Lambda, EventBridge, and SES.
   Automated infrastructure and deployments using Terraform and GitHub Actions, with daily report generation and monitoring via CloudWatch..
 
-- **[Simple CI/CD Project](https://github.com/gawalishankar/simple-CI-CD-project)**  
-  Developed a hands-on CI/CD project demonstrating automated build, test, and deployment workflows using GitHub Actions and Docker.
-  Focused on improving deployment reliability and reducing manual intervention.
+- **[Multi-Service Reverse Proxy Architecture (Go + Python + Nginx](https://github.com/gawalishankar/nginx-multi-service-reverse-proxy.git)**  
+  Built a multi-service architecture with backend services written in Go and Python.
+  Configured Nginx reverse proxy to route incoming requests to appropriate backend services.
+  Containerized services using Docker and orchestrated them with Docker Compose.
 
 ---
 
